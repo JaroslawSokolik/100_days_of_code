@@ -12,10 +12,8 @@ b = input("b: ")
 #Write your code below this line 👇
 
 c = a
-d = b
+a = b
 b = c
-a = d
-
 
 #Write your code above this line 👆
 ####################################
