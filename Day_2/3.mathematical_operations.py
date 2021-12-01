@@ -4,8 +4,15 @@ print(3 * 2)
 print(3 ** 2)
 print(3 / 2)
 
-
+# Mathematical order example
 print(3 * (3 + 3) / 3 - 3)
+
+# Rounding Floats
+
+number = 8 / 3
+print(number)
+print(round(number, 3))
+print(8 // 3)  # Rounded straight to integer
 
 # Make BMI Calculator
 
